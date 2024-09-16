@@ -12,7 +12,7 @@ while True :
     else :
         print("please entar a number")
 
-if timer.isdigit :
+if timer.isdigit() :
     timer = int(timer)
     for i in range(timer):
         if run_time == "m":
